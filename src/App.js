@@ -1,6 +1,7 @@
 
 import './App.css';
-
+const app = [];
+app = ["list"];
 function App() {
   return (
     <div className="App">
